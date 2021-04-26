@@ -1,4 +1,7 @@
 ### Hi there 👋
+### Olá 👋
+
+🌱 I’m currently learning HTML, CSS and JavaScript.
 
 <!--
 **josesouzaa/josesouzaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
