@@ -1,7 +1,10 @@
 ### Hi there 👋
-### Olá 👋
+
+Jornalista de formação se aventurando no mundo da programação. Interessado pelo front-end, atualmente focando os estudos em HTML, CSS e JavaScript.
 
 🌱 I’m currently learning HTML, CSS and JavaScript.
+
+Me encontre no <a href="https://www.linkedin.com/in/jose-de-souza/">Linkedin</a>
 
 <!--
 **josesouzaa/josesouzaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
