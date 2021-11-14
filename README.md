@@ -4,11 +4,9 @@
 
 - 🌱 Atualmente estudando front-end, focado em ReactJS
 
-- 🔭 Vejá meu portfólio em <a href="https://josesouzaa.github.io" target="_blank">
+- 🔭 Me encontre: <a href="https://josesouzaa.github.io" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Portf%C3%B3lio-Jos%C3%A9%20de%20Souza-05122A?style=flat" alt="Portfólio"/>
-</a>
-
-<a href="https://www.linkedin.com/in/jose-de-souza/" target="_blank">
+</a> <a href="https://www.linkedin.com/in/jose-de-souza/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-José_de_Souza-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
