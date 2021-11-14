@@ -7,11 +7,7 @@
 - 🔭 Vejá meu portfólio em [josesouzaa.github](https://josesouzaa.github.io)
 
 <a href="https://www.linkedin.com/in/jose-de-souza/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-jose-de-souza-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-
-<a href="https://www.linkedin.com/in/jose-de-souza" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-jose_de_souza-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-José_de_Souza-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
 ## 🛠 &nbsp;Tech Stack
