@@ -10,6 +10,10 @@
   <img align="center" src="https://img.shields.io/badge/-jose-de-souza-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
+<a href="https://www.linkedin.com/in/jose-de-souza" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-jose-de-souza-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+
 ## 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
