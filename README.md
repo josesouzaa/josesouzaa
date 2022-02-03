@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm José de Souza</h1>
 
-- 🔥 Bacharel em Jornalismo
+- 🔥 Estudante de Análise e Desenvolvimento de Sistemas
 
 - 🌱 Atualmente estudando front-end, focado em ReactJS
 
